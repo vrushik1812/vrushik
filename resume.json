@@ -17,8 +17,8 @@
         "profiles": [
              {
                 "network": "Twitter",
-                "username": "patel vrushik",
-                "url": "https://twitter.com/vyp714"
+                "username": "",
+                "url": ""
             },
             
             {
@@ -35,7 +35,7 @@
                 "network": "Instagram",
                 "username": "vrushikpatel7143",
                 "url": "https://www.instagram.com/vrushikpatel7143/"
-            },
+            }
             
         ]
     },
@@ -88,7 +88,7 @@
     "publications": [
         {
             "title": "",
-            "details": ""
+            "details": "",
             "link": ""
         },
         {
